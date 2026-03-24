@@ -9,5 +9,8 @@ https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u
 #EXTINF:-1 group-title="Locali",OTTOCHANNEL
 https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Locali",ZONA RCS
+https://stream10.xdevel.com/video1s975429-2313/stream/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Locali",TELECOLORE
 https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
