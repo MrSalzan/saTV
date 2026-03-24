@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Locali",LIRA TV
+https://streamcdnm7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+
+#EXTINF:-1 group-title="Locali",STILE TV
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+
+#EXTINF:-1 group-title="Locali",OTTOCHANNEL
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Locali",TELECOLORE
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
